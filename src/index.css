@@ -12,7 +12,7 @@
    margin: 6vh;
    border:6px dashed rgb(1,17,160);
    border-radius: 20px;
-   padding: 1vh;
+   padding:5px 25px ;
 }
 
 .container{
@@ -74,6 +74,7 @@
 }
 .read-more{
     color: blue;
+    cursor: pointer;
 }
 .tour-name{
     font-weight: 800;
